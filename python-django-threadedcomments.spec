@@ -38,3 +38,10 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root,-)
 %{py_puresitedir}/*
 
+
+
+%changelog
+* Tue Nov 02 2010 Ahmad Samir <ahmadsamir@mandriva.org> 0.9-1mdv2011.0
++ Revision: 591975
+- import python-django-threadedcomments
+
