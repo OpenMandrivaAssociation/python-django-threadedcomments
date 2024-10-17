@@ -9,7 +9,7 @@ Release: %{release}
 Summary:        A simple yet flexible threaded commenting system
 Group:          Development/Python
 License:        BSD
-URL:            http://code.google.com/p/django-threadedcomments/
+URL:            https://code.google.com/p/django-threadedcomments/
 Source:         %{realname}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:      noarch
